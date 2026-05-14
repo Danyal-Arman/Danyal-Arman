@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Collaborative Code Editor**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Java|Relational Databases**
 
-- 💬 Ask me about **React, Express, MongoDB , mongoose and Node.js**
+- 💬 Ask me about **React, Express, MongoDB , JavaScript, Java and Node.js**
 
 - 📫 How to reach me **danyalarman15@gmail.com**
 
