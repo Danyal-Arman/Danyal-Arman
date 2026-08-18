@@ -121,15 +121,13 @@ A browser-based collaborative coding platform designed for real-time coding and 
 
 **Highlights:**
 
-* ⚡ Real-time collaboration using **Socket.IO**
+* ⚡ Real-time collaboration using **Socket.IO And YJS**
 * 📝 Code editing with **Monaco Editor**
 * 🤖 AI-powered coding assistance
 * 👥 Room-based collaboration
 * ▶️ Multi-language code execution
 * 💬 Real-time communication
 * 🎨 Modern responsive interface
-
-🔗 **Live:** https://code-eva.vercel.app
 
 ---
 
