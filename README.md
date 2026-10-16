@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · danyal-arman</sub></p>
 <h1>DANYAL ARMAN</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full Stack Engineer</h2>
 <p>Full Stack Developer | Building real-world apps | Lifelong learner | Currently learning AI</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
