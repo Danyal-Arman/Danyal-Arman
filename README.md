@@ -39,13 +39,19 @@
 </tr>
 </table>
 
+<!-- Added badges for repositories and contributions (no stars/followers) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-14-blue?style=for-the-badge" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Contributions-225-brightgreen?style=for-the-badge" alt="Contributions" />
+</p>
+
 <h2>Selected work</h2>
 
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&v=projects-1&mode=light" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3Dprojects-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/projects?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3Dprojects-1&mode=dark" width="100%" alt="DANYAL ARMAN GitHub projects" />
 </picture>
 </td>
