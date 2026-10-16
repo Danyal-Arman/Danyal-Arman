@@ -6,7 +6,7 @@
 <p><sub>RECRUITER SIGNAL BRIEF · danyal-arman</sub></p>
 <h1>DANYAL ARMAN</h1>
 <h2>Frontend or full-stack engineer</h2>
-<p>MERN Stack Developer | Building real-world apps | Lifelong learner | Currently learning AI</p>
+<p>Full Stack Developer | Building real-world apps | Lifelong learner | Currently learning AI</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
 <p><a href="https://github.com/danyal-arman">GitHub</a></p>
@@ -28,7 +28,7 @@
 </tr>
 </table>
 
-<p><sub>MERN Stack Developer | Building real-world apps | Lifelong learner | Currently learning AI</sub></p>
+<p><sub>Full Stack Developer | Building real-world apps | Lifelong learner | Currently learning AI</sub></p>
 
 <h2>Proof at a glance</h2>
 
