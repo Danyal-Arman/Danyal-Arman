@@ -22,8 +22,8 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · JavaScript · TypeScript · CSS</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>14 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or Full-stack engineer · JavaScript · TypeScript · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>14 repositories</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>225 contributions · 70 active days</p></td>
 </tr>
 </table>
@@ -35,9 +35,7 @@
 <table width="100%">
 <tr>
 <td width="25%" align="center"><strong>14</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
 <td width="25%" align="center"><strong>225</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
 </tr>
 </table>
 
