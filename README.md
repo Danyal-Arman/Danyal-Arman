@@ -39,21 +39,14 @@
 </tr>
 </table>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="DANYAL ARMAN GitHub proof metrics" />
-</picture>
-</p>
-
 <h2>Selected work</h2>
 
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&repos=danyal-arman%2FLMS-EduGlide%2Cdanyal-arman%2FCodeEva&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&repos=danyal-arman%2FLMS-EduGlide%2Cdanyal-arman%2FCodeEva&v=recruiter-projects-1&mode=dark" width="100%" alt="DANYAL ARMAN selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&v=projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3Dprojects-1&mode=dark" width="100%" alt="DANYAL ARMAN GitHub projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -75,8 +68,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="DANYAL ARMAN technology stack" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3Dstack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3Dstack-1&mode=dark" width="100%" alt="DANYAL ARMAN GitHub stack" />
 </picture>
 </p>
 
@@ -94,8 +87,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="DANYAL ARMAN contribution activity" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3Dheatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=danyal-arman&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F179720245%3Fu%3Db880071b453a60f91b2477bd2c6b59f96d86a1dc%26v%3Dheatmap-1&mode=dark" width="100%" alt="DANYAL ARMAN GitHub heatmap" />
 </picture>
 </p>
 
